@@ -21,7 +21,7 @@ Tested version - 1.13
 1. Clone the project in to your local machine.
 2. Open up a terminal and execute the command `cd <cloned-path>/golang-rpc-example/server` 
    by replacing the <cloned-path> placeholder.
-3. Execute the command `go run server.go` , This will start up the server.
+3. Execute the command `go run server.go` , This will start up the server with port 9000.
 4. Open up a new terminal and execute the command `cd <cloned-path>/golang-rpc-example/client`
    by replacing the <cloned-path> placeholder.
 5. Execute the command `go run client.go` , This will start up the client.
